@@ -1,0 +1,24 @@
+{
+    "name": "@khangdt22/prettier-config",
+    "version": "1.0.0",
+    "description": "My personal Prettier configuration",
+    "keywords": [
+        "prettier",
+        "prettier-config"
+    ],
+    "license": "MIT",
+    "author": "Diep Dang <khangdt3107@gmail.com>",
+    "homepage": "https://github.com/khangdt22/prettier-config",
+    "repository": "github:khangdt22/prettier-config",
+    "bugs": {
+        "email": "khangdt3107@gmail.com",
+        "url": "https://github.com/khangdt22/prettier-config/issues"
+    },
+    "files": [
+        "index.json"
+    ],
+    "main": "./index.json",
+    "publishConfig": {
+        "access": "public"
+    }
+}
